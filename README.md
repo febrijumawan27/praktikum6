@@ -13,7 +13,11 @@
 
 5. Buat sebuah module(Phyton file) di luar dari kedua package model dan view (klik kanan pada Program01, lalu klik new lalu pilih *Phython File*, beri nama **main.py**,lalu isi 'main' ini dengan program utama yang memanggil fungsi fungsi dari *module* yang terdapat pada kedua *package* di atas.
 
-Lebih jelasnya bisa dilihat pada unggahan program saya pada ***Repository*** ini.
+Berikut Susunan Package dan Module nya :
+
+![Screenshot (105)](https://user-images.githubusercontent.com/57055098/71546893-491ea100-29cd-11ea-996b-2018c2c6b215.png)
+
+Lebih jelasnya bisa dilihat pada program yang sudah saya upload pada ***Repository*** ini.
 
 berikut hasil ketika program di jalankan :
 
